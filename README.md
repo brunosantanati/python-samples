@@ -134,4 +134,3 @@ The `transformers` library is used when you want to leverage massive, pre-traine
 * **Retrieval-Augmented Generation (RAG) & Semantic Search:** Powering modern AI search engines. Instead of searching for exact keywords, transformers convert text into "embeddings" (numerical vectors of meaning) to find documents that match the intent of a query.
 * **Core NLP Operations:** Automated text summarization, translating text between languages with high contextual accuracy, and named entity recognition (extracting names, dates, or prices from a block of text).
 * **Audio & Vision Pipelines:** Running pre-trained speech-to-text models (like transcribing a customer call into text) or running text-to-image models.
-```
